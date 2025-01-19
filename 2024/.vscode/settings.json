@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "bit": "c",
+        "cmath": "c",
+        "compare": "c",
+        "concepts": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "typeinfo": "c",
+        "stdio.h": "c",
+        "file.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    }
+}

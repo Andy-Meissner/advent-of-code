@@ -1,0 +1,1 @@
+char** read_file_lines(const char* filename, int* line_count);
